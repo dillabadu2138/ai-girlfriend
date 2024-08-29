@@ -1,0 +1,8 @@
+# Byte-compiled files
+__pycache__/
+
+# Environment files
+.env
+
+# ignore all files in any directory named node_modules
+node_modules/
